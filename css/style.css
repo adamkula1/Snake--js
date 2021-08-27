@@ -1,0 +1,19 @@
+body {
+    background-color: #ffbf00;
+    text-align: center;
+}
+
+canvas {
+    border: 10px solid #f7347a;
+}
+
+h1 {
+    font-size: 4em;
+    margin-top: 0;
+}
+
+h1 strong {
+    font-size: 1.35em;
+    display: inline-block;
+    margin: 0 0.25em;
+}
